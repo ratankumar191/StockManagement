@@ -1,0 +1,16 @@
+c:\users\ratan\documents\visual studio 2015\Projects\Stock\Stock\bin\Debug\Stock.exe.config
+c:\users\ratan\documents\visual studio 2015\Projects\Stock\Stock\bin\Debug\Stock.exe
+c:\users\ratan\documents\visual studio 2015\Projects\Stock\Stock\bin\Debug\Stock.pdb
+c:\users\ratan\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.csprojResolveAssemblyReference.cache
+c:\users\ratan\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+c:\users\ratan\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.StockMain.resources
+c:\users\ratan\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.Cache
+c:\users\ratan\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.exe
+c:\users\ratan\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.pdb
+c:\users\ratan\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Login.resources
+C:\Users\Ratan\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\MySql.Data.dll
+C:\Users\Ratan\Documents\Visual Studio 2015\Projects\Stock\Stock\bin\Debug\MySql.Data.xml
+C:\Users\Ratan\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Products.resources
+C:\Users\Ratan\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Stock.resources
+C:\Users\Ratan\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Products_Report.resources
+C:\Users\Ratan\Documents\Visual Studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Stock_Report.resources
